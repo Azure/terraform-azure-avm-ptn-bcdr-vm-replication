@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
+  "moduleDisplayName": "BCDR VM Replication",
+  "moduleDescription": "Intended AVM Terraform pattern module for BCDR VM Replication.",
+  "canonicalType": "bcdr-vm-replication",
+  "owners": [
+    "ns-github-design"
+  ],
+  "telemetryIdPrefix": "46d3xtrf.ptn.444beb4"
+}
